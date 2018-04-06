@@ -1,0 +1,27 @@
+{
+  "name": "jacobbhartman-com",
+  "version": "0.1.0",
+  "description": "The hivemind of Jacob B. Hartman and company.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JacobBHartman/jacobbhartman-com.git"
+  },
+  "keywords": [
+    "Jacob"
+  ],
+  "author": "Jacob B. Hartman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JacobBHartman/jacobbhartman-com/issues"
+  },
+  "homepage": "https://github.com/JacobBHartman/jacobbhartman-com#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "morgan": "^1.9.0"
+  }
+}
